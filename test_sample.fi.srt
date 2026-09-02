@@ -1,0 +1,19 @@
+1
+00:00:01,000 --> 00:00:04,000
+Terve, mitä sinulle kuuluu?
+
+2
+00:00:05,000 --> 00:00:08,000
+Minulla menee hyvin, kiitos kysymyksestä!
+
+3
+00:00:09,000 --> 00:00:12,000
+Se on ihanaa kuulla.
+
+4
+00:00:13,000 --> 00:00:16,000
+Miten sinulla menee? Oletko kunnossa?
+
+5
+00:00:17,000 --> 00:00:20,000
+Kyllä, kaikki on menossa paremmin, kiitos!

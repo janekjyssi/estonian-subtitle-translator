@@ -1,0 +1,19 @@
+1
+00:00:01,000 --> 00:00:04,000
+Tere, kuidas sul läheb?
+
+2
+00:00:05,000 --> 00:00:08,000
+Minul läheb suurepäraselt, aitäh küsimise eest!
+
+3
+00:00:09,000 --> 00:00:12,000
+See on imeline kuulda.
+
+4
+00:00:13,000 --> 00:00:16,000
+Kuidas sul on? Kas kõik on korras?
+
+5
+00:00:17,000 --> 00:00:20,000
+Jah, kõik on paremini minemas, suur aitäh!
